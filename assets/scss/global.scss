@@ -1,0 +1,354 @@
+@import './reset';
+
+@import './bootstrap/bootstrap.scss';
+@import 'bootstrap-vue/src/index.scss';
+
+@import 'moduls/form';
+@import 'moduls/customDatePicker';
+@import 'moduls/modal';
+@import 'moduls/dropdown';
+
+@include input;
+
+@font-face {
+  font-family: Raleway;
+  font-weight: 500;
+  src: url(~assets/fonts/Raleway-Regular.ttf);
+}
+
+@font-face {
+  font-family: Raleway;
+  font-weight: normal;
+  src: url(~assets/fonts/Raleway-Regular.ttf);
+}
+
+@font-face {
+  font-family: Raleway;
+  font-weight: 400;
+  src: url(~assets/fonts/Raleway-Light.ttf);
+}
+
+@font-face {
+  font-family: Raleway;
+  font-weight: 600;
+  src: url(~assets/fonts/Raleway-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: Raleway;
+  font-weight: 700;
+  src: url(~assets/fonts/Raleway-Bold.ttf);
+}
+
+@font-face {
+  font-family: Raleway;
+  font-weight: 900;
+  src: url(~assets/fonts/Raleway-Black.ttf);
+}
+
+@font-face {
+  font-family: Gilroy;
+  font-weight: 300;
+  src: url(~assets/fonts/Gilroy/Gilroy-Light.ttf);
+}
+
+@font-face {
+  font-family: Gilroy;
+  font-weight: 800;
+  src: url(~assets/fonts/Gilroy/Gilroy-Black.ttf);
+}
+
+body {
+  color: #000;
+  font-family: Raleway;
+  background: $grey-bg;
+  //scroll-behavior: smooth;
+}
+
+.loader__body {
+  border-radius: 13px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  top: 0;
+  background: rgba(255, 255, 255, 0.6);
+  align-items: center;
+  justify-content: center;
+  display: none;
+  &_show {
+    display: flex;
+  }
+}
+
+.cont-console {
+  display: flex;
+  height: 100vh;
+
+  &__loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    &_global {
+      height: 100vh;
+    }
+  }
+  &__menu {
+    min-width: 323px;
+  }
+  &__main {
+    width: 100%;
+  }
+}
+
+.content__item {
+  padding: 50px;
+}
+
+.form__er {
+  min-height: 18px;
+  font-size: 12px;
+  color: #db2c2c;
+}
+
+.vdd {
+  width: 100%;
+  position: relative;
+  &__icon {
+    margin: 0 0 0 8px;
+  }
+  &__btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #FFF;
+    width: 100%;
+    border-radius: 15px;
+    font-weight: 500;
+    padding: 0 20px;
+    height: 44px;
+    border: 1px solid $stroke;
+    font-size: 14px;
+  }
+  &__title {
+    &_placeholder {
+      color: rgba($grey, .5);
+      font-size: 16px;
+    }
+  }
+  &__items {
+    z-index: 50;
+    border-radius: 13px;
+    position: absolute;
+    top: calc(100% + 4px);
+    background: #FFF;
+    width: 100%;
+    max-width: 100%;
+    box-shadow: 0 2px 15px -5px rgba(#000, .15);
+    padding: 7px 0;
+    display: flex;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+    max-height: 300px;
+    overflow: auto;
+  }
+  &__item {
+    display: flex;
+    align-content: flex-start;
+    padding: 7px 20px;
+  }
+}
+
+.vtext {
+  &__red {
+    color: #dc3c3c;
+  }
+  &__green {
+    color: #27AE60;
+  }
+  &__grey {
+    color: rgba(#000000, 0.4);
+  }
+}
+
+.vinput {
+  &__disable {
+    border: 1px solid transparent;
+    &::placeholder {
+      color: rgba($grey, .5);
+      transition: .2s;
+    }
+    &:focus, &:hover {
+      border-color: transparent;
+      color: rgba($grey, .5) !important;
+      &::placeholder {
+        color: rgba($grey, .5);
+      }
+    }
+  }
+  &__fake {
+    background: #FFF;
+    width: 100%;
+    border-radius: 15px;
+    padding: 0 20px;
+    height: 44px;
+    border: 1px solid $stroke;
+    display: flex;
+    align-items: center;
+  }
+  &__title {
+    font-size: 16px;
+    color: $grey;
+    margin: 0 0 3px;
+  }
+}
+
+
+@media (max-width: 1499px) {
+  .cont-console {
+    &__menu {
+      min-width: initial;
+    }
+    &__content {
+      padding: 74px 0 0;
+    }
+  }
+  .content__item {
+    padding: 50px;
+  }
+}
+
+@media (max-width: 1599px) {}
+@media (max-width: 1199px) {
+  .content__item {
+    padding: 20px;
+  }
+}
+@media (max-width: 991px) {}
+@media (max-width: 767px) {}
+@media (max-width: 575px) {}
+@media (max-width: 479px) {}
+@media (max-width: 399px) {}
+
+
+.Switch {
+  width: 32px;
+  height: 18px;
+  border-radius: 29px;
+  background: #54595F;
+  opacity: 0.2;
+  position: relative;
+  display: flex;
+  align-items: center;
+  &__circle {
+    transition: .1s;
+    position: absolute;
+    left: 2px;
+    border-radius: 100%;
+    width: 14px;
+    height: 14px;
+    background: #C4C4C4;
+  }
+  &_toggled {
+    opacity: 1;
+    background: $yellow-gradient;
+    .Switch__circle {
+      left: 16px;
+      background: #FFFFFF;
+
+    }
+  }
+}
+
+.land {
+  min-height: 100vh;
+
+  background: #FFF;
+  overflow: hidden;
+
+  display: grid;
+  grid-template-rows: min-content 1fr min-content;
+  justify-items: center;
+  &__anchor {
+    padding-top: 100px;
+    margin-top: -100px;
+  }
+  &__title {
+    font-weight: 900;
+    color: #000000;
+    font-size: 120px;
+    line-height: 108.4%;
+    white-space: pre-line;
+  }
+  &__preface {
+    font-weight: bold;
+    color: rgba($grey, .5);
+    font-size: 18px;
+  }
+  &__sub {
+    font-weight: 600;
+    font-size: 25px;
+    color: $grey;
+    line-height: 159.4%;
+  }
+  &__text {
+    font-size: 18px;
+    color: $grey;
+    font-weight: normal;
+    line-height: 185.9%;
+  }
+  &__container {
+    position: relative;
+    width: 100%;
+    max-width: 1660px;
+  }
+  @media (max-width: 1700px) {
+    &__container {
+      max-width: 1300px;
+    }
+  }
+  @media (max-width: 1400px) {
+    &__container {
+      max-width: 1140px;
+    }
+  }
+  @media (max-width: 1199px) {
+    &__container {
+      max-width: 960px;
+    }
+    &__title {
+      font-weight: 900;
+      color: #000000;
+      font-size: 80px;
+      line-height: 108.4%;
+    }
+  }
+  @media (max-width: 991px) {
+    &__container {
+      max-width: 720px;
+    }
+  }
+  @media (max-width: 767px) {
+    &__preface {
+      font-size: 15px;
+    }
+    &__sub {
+      font-size: 17px;
+    }
+    &__text {
+      font-size: 15px;
+    }
+    &__container {
+      max-width: 540px;
+      padding: 0 10px;
+    }
+    &__title {
+      font-weight: 900;
+      color: #000000;
+      font-size: 45px;
+      line-height: 108.4%;
+    }
+  }
+}
+

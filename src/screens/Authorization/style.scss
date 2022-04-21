@@ -1,0 +1,149 @@
+.auth {
+  background: $grey-bg;
+  position: relative;
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+  &__kyc{
+    font-size: 16px;
+    color: #54595F;
+    padding: 0 20px;
+    margin-top: 20px;
+  }
+  &__main {
+    overflow: auto;
+    width: 906px;
+    background: #FFF;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 500;
+  }
+  &__bg {
+    position: absolute;
+    right: -190px;
+    bottom: -190px;
+  }
+  &__box {
+    width: 435px;
+    height: 620px;
+  }
+
+
+  &__title {
+    font-weight: 800;
+    font-size: 30px;
+    margin: 0 0 50px;
+    white-space: pre-line;
+  }
+  &__btns {
+    display: flex;
+    justify-content: flex-end;
+    margin: 40px 0 0;
+  }
+  &__btn {
+    @include btn;
+    @include btn-yellow;
+  }
+
+  &__loader {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+    background: rgba(#FFF, .6);
+    align-items: center;
+    justify-content: center;
+    display: none;
+    &_show {
+      display: flex;
+    }
+  }
+
+  .menu {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 0 30px;
+    &__items {
+      display: flex;
+      position: relative;
+    }
+    &__item {
+      cursor: pointer;
+      transition: .2s;
+      font-weight: 500;
+      font-size:   18px;
+      border-bottom: 2px solid transparent;
+
+      color: rgba($grey, .3);
+      padding: 0 0 2px;
+
+      &:not(:last-child) {
+        margin: 0 36px 0 0;
+      }
+    }
+
+    &__item.menu__item_active {
+      border-color: $yellow;
+      color: #000000;
+
+    }
+
+    &__forgot {
+      transition: .2s;
+      font-weight: 500;
+      font-size: 18px;
+      cursor: pointer;
+      color: rgba($grey, .3);
+      &:hover {
+        color: #000;
+      }
+      &.forgot_active {
+        color: #000;
+      }
+    }
+  }
+
+
+
+  @media (max-width: 1199px) {
+    &__bg {
+      display: none;
+    }
+    &__main {
+      width: 100%;
+    }
+  }
+  @media (max-width: 767px) {
+    height: initial;
+
+    &__main {
+      min-height: 100vh;
+
+    }
+    &__box {
+      width: 100%;
+      height: initial;
+      padding: 20px;
+    }
+  }
+  @media (max-width: 479px) {
+    .menu {
+      &__item, &__forgot {
+        font-size: 16px;
+      }
+      &__item {
+        &:not(:last-child) {
+          margin: 0 16px 0 0;
+        }
+      }
+    }
+  }
+}
+
+
+
+

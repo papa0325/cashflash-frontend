@@ -1,0 +1,885 @@
+{
+  "land": {
+    "menu": {
+      "ac": "Account",
+      "items": [
+        {
+          "title": "Ecosystem",
+          "anchor": "ecosystem"
+        },
+        {
+          "title": "Roadmap",
+          "anchor": "roadmap"
+        },
+        {
+          "title": "We are",
+          "anchor": "weare"
+        },
+        {
+          "title": "White Paper",
+          "anchor": "whitepaper"
+        },
+        {
+          "title": "Team",
+          "anchor": "team"
+        }
+      ]
+    },
+    "header": {
+      "title": "ICO",
+      "days": "Days",
+      "hours": "Hours",
+      "minutes": "Minutes",
+      "seconds": "Seconds",
+      "whitepaper": "White Paper",
+      "contract": "Contract",
+      "kyc": "K.Y.C",
+      "softcap": "Soft Cap (350 Millions €)",
+      "centercap": "(1 Billion €)",
+      "hardcap": "Hard Cap (4 Billions €)",
+      "items": [
+        {
+          "title": "1st round",
+          "sub": "January 13 - February 13",
+          "extra": "50% extra token",
+          "desc": "issued 3 months after the end of the ICO",
+          "token": "For token",
+          "price": "€ 1.00"
+        },
+        {
+          "title": "2nd round",
+          "sub": "February 14 - May 14",
+          "extra": "25% extra token",
+          "desc": "issued 3 months after the end of the ICO",
+          "token": "For token",
+          "price": "€ 1.00"
+        },
+        {
+          "title": "3rd round",
+          "sub": "May 15 - July 15",
+          "extra": "10% extra token",
+          "desc": "issued 3 months after the end of the ICO",
+          "token": "For token",
+          "price": "€ 1.00"
+        }
+      ]
+    },
+    "adv": {
+      "title": "Ecosystem",
+      "links": {
+        "facebook": "https://www.facebook.com/Cash-Flash-SaS-105444377690054/",
+        "twitter": "https://www.google.com/",
+        "in": "https://www.linkedin.com/company/cashflash/",
+        "telegram": "https://www.google.com/",
+        "instagram": "https://www.instagram.com/cashflashsas20/",
+        "youtube": "https://www.google.com/"
+      },
+      "items": [
+        {
+          "title": "Wallet",
+          "sub": "Wallet",
+          "image": "wallet-icon"
+        },
+        {
+          "title": "Shop",
+          "sub": "Marketplace",
+          "image": "market-icon"
+        },
+        {
+          "title": "Technology",
+          "sub": "Anti-fraud protection",
+          "image": "lamp-icon"
+        },
+        {
+          "title": "E-Bank",
+          "sub": "Credit cards on blockchain",
+          "image": "bank-icon"
+        },
+        {
+          "title": "Blockchain",
+          "sub": "The only interlinked blockchain",
+          "image": "chain-icon"
+        },
+        {
+          "title": "MOBILE",
+          "sub": "App mobile",
+          "image": "phone-icon"
+        }
+      ]
+    },
+    "map": {
+      "pre": "Implementation Calendar Wallet",
+      "title": "Roadmap",
+      "items": [
+        {
+          "date": "November 24th, 2018",
+          "text": "The idea of ​​developing Cash Flash is born",
+          "dateValue": [24, 11, 2018]
+        },
+        {
+          "date": "March 5th, 2019",
+          "text": "The project is created",
+          "dateValue": [5, 3, 2019]
+        },
+        {
+          "date": "June 7th, 2019",
+          "text": "The operating team is defined",
+          "dateValue": [7, 6, 2019]
+        },
+        {
+          "date": "September 5th, 2019",
+          "text": "The business plan is developed; the whitepaper is defined",
+          "dateValue": [5, 9, 2019]
+        },
+        {
+          "date": "December 23rd, 2019",
+          "text": "The launch of the cashflash.io website",
+          "dateValue": [23, 12, 2019]
+        },
+        {
+          "date": "January 13th, 2020",
+          "text": "The registration of trademarks and patents is planned",
+          "dateValue": [13, 1, 2020]
+        },
+        {
+          "date": "March 2nd, 2019",
+          "text": "COVID19 emergency: development of 67% of the marketplace and 45% of the Blockchain",
+          "dateValue": [2, 3, 2020]
+        },
+        {
+          "date": "June 12th, 2020",
+          "text": "The company HQ and relevant bodies are decided in Lithuania, Vilnius",
+          "dateValue": [12, 7, 2020]
+        },
+        {
+          "date": "August 10th, 2020",
+          "text": "Wallets and related platforms are completed",
+          "dateValue": [10, 8, 2020]
+        },
+        {
+          "date": "October 19th, 2020",
+          "text": "The smart contract is completed",
+          "dateValue": [19, 10, 2020]
+        },
+        {
+          "date": "December 7th, 2020",
+          "text": "Main net tests show the absolute efficience of the operation",
+          "dateValue": [7, 12, 2020]
+        },
+        {
+          "date": "January 9th, 2021",
+          "text": "The ICO begins",
+          "dateValue": [9, 1, 2021]
+        },
+        {
+          "date": "March 30th, 2021",
+          "text": "Possibility to buy CFT tokens from the best exchanges",
+          "dateValue": [30, 3, 2021]
+        },
+        {
+          "date": "July 9th, 2021",
+          "text": "End of ICO and release on CoinMarket with an option to exchange money",
+          "dateValue": [9, 7, 2021]
+        },
+        {
+          "date": "September 10th, 2021",
+          "text": "Marketplace development deadline and start of testing",
+          "dateValue": [10, 9, 2021]
+        },
+        {
+          "date": "March 30th, 2022",
+          "text": "Blockchain development ends and testing begins",
+          "dateValue": [30, 3, 2022]
+        },
+        {
+          "date": "April 4th, 2022",
+          "text": "Bank Acquisition of Fiat currency",
+          "dateValue": [4, 4, 2022]
+        },
+        {
+          "date": "May 9th, 2022",
+          "text": "End of e-bank and exchange platform development for fiat and crypto currencies in CFT",
+          "dateValue": [9, 5, 2022]
+        },
+        {
+          "date": "May 20th, 2022",
+          "text": "Real estate acquisition for the on-campuses training",
+          "dateValue": [20, 5, 2022]
+        },
+        {
+          "date": "June 1st, 2022",
+          "text": "The anti-counterfeiting CPS and POS Blockchain are completed and ready for commercialization",
+          "dateValue": [1, 6, 2022]
+        },
+        {
+          "date": "July 26th, 2022",
+          "text": "The company is 100% operational",
+          "dateValue": [26, 7, 2022]
+        }
+      ]
+    },
+    "what": {
+      "pre": "The first blockchain with e-commerce",
+      "title": "What's\nCash Flash",
+      "sub": "We are creating the first project with its real Certified and Guaranteed Marketplace.",
+      "text": "The Cash Flash project was born with the intent to create a series of systems for both the customer and companies, incorporated in the first marketplace where it will be possible to buy everything in cryptocurrency. All stores will be able to use it as a means of payment with a dedicated POS. Furthermore, through Cash Flash Technology it will be possible to trace the products and counteract their counterfeiting."
+    },
+    "paper": {
+      "pre": "Documents, Terms and Conditions",
+      "title": "White Paper",
+      "sub": "Official company program viewable and downloadable in pdf, choose the language most convenient to you:",
+      "text": "Terms of service are rules by which you must agree to abide by to use a service. The terms of service may also simply be a disclaimer, particularly regarding the use of the websites.",
+      "otherLanguagesTitle": "or choose the language from the list below",
+      "selectTheCountry": "Select the country",
+      "download": "Download",
+      "items": [
+        { "title": "Italiano", "link": "Whitepaper-Italiano-okok.pdf", "image": "ITA" },
+        { "title": "English", "link": "Whitepaper-Inglese-okok.pdf", "image": "GBR" },
+        { "title": "Lietuviškas", "link": "Whitepaper-Lituano-okok.pdf", "image": "LTU" },
+
+        { "title": "Arabic", "link": "Whitepaper-Arabo-okok.pdf", "image": "ARE" },
+        { "title": "Chinese", "link": "Whitepaper-Cinese-okok.pdf", "image": "CHN" },
+        { "title": "Korean", "link": "Whitepape- Coreano-okok.pdf", "image": "KOR" },
+        { "title": "Japanese", "link": "Whitepaper-Giapponese-okok.pdf", "image": "JPN" },
+        { "title": "Hindi", "link": "Whitepaper-Indiano-okok.pdf", "image": "IND" },
+        { "title": "Maltese", "link": "Whitepaper-Maltese-okok.pdf", "image": "MLT" },
+        { "title": "German", "link": "Whitepaper-Tedesco-okok.pdf", "image": "GER" },
+        { "title": "Polish", "link": "Whitepaper-Polacco-okok.pdf", "image": "POL" },
+        { "title": "Portuguese", "link": "Whitepaper-Portoghese-okok.pdf", "image": "PRT" },
+        { "title": "Romanian", "link": "Whitepaper-Rumeno-okok.pdf", "image": "ROU" },
+        { "title": "Russian", "link": "Whitepaper-Russo-okok.pdf", "image": "RUS" },
+        { "title": "Spanish", "link": "Whitepaper-Spagnolo-okok.pdf", "image": "ESP" },
+        { "title": "Dutch", "link": "Whitepaper-Olandese-okok.pdf", "image": "NLD" },
+        { "title": "Turkish", "link": "Whitepaper-Turco-okok.pdf", "image": "TUR" },
+        { "title": "Bulgarian", "link": "Whitepaper-Bulgaro-okok.pdf", "image": "BGR" },
+        { "title": "Czech", "link": "Whitepaper-Ceco-okok.pdf", "image": "CZE" },
+        { "title": "Estonian", "link": "Whitepaper-Estone-okok.pdf", "image": "EST" },
+        { "title": "Finnish", "link": "Whitepaper-Finlandese-okok.pdf", "image": "FIN" },
+        { "title": "Latvian", "link": "Whitepaper-Lettone-okok.pdf", "image": "LVA" },
+        { "title": "Norwegian", "link": "Whitepaper-Norvegese.pdf", "image": "NOR" },
+        { "title": "Serbian", "link": "Whitepaper-Serbo-okok.pdf", "image": "SRB" },
+        { "title": "Slovak", "link": "Whitepaper-Slovacco.pdf", "image": "SVK" },
+        { "title": "Slovenia", "link": "Whitepaper-Sloveno-okok.pdf", "image": "SVN" },
+        { "title": "Swedish", "link": "Whitepaper-Svedese-okok.pdf", "image": "SWE" },
+        { "title": "Ukrainian", "link": "Whitepaper-Ucraino-okok.pdf", "image": "UKR" },
+        { "title": "Hungarian", "link": "Whitepaper-Ungherese-okok.pdf", "image": "HUN" }
+      ]
+    },
+    "team": {
+      "title": "Team",
+      "text": "Cash Flash, unlike other projects in the sector, wants to give the opportunity to all the most competent people to be part of our team, with the aim of welcoming the project, excellences of all nations, to become a global project . Cash Flash was born from the entrepreneurial idea of Andrea Cerato, who shares the vision of a project focused on the opportunity to create a real ecosystem in the world of cryptocurrencies. Through the blockchain, new services are created both for the customer and for the company, creating a shorter and more performing supply chain.",
+      "founders": "Founder and Investor",
+      "board": "Board members",
+      "financial": "Financial department",
+      "advisor": "Advisor sales team",
+      "items": [
+        {
+          "title": "Andrea Cerato",
+          "sub": "Founder and Investor",
+          "in": "https://www.linkedin.com/company/cashflash/",
+          "inNick": "www.linkedin.com/in/andrea-cerato-447b1119a/",
+          "mail": "info@cashflash.io",
+          "image": "1",
+          "birthday": "",
+          "role": "founders",
+          "description": "36 years old Italian from Verona, specialized in civil and industrial electronics,cyber security , computer programming,\n\nSpecialized and experienced you have the highest levels in development and programming security in payment systems,\n\nincluding both banking and military software, also specializing in algorithms for military use.\n\nIn 2006 he created Gray Screen, an efficient encryption system that has never been hacked.\n\nSpecialized in anti-fraud security systems, such as atm and Pos with advanced technologies,\n\nsuch as tamper evident optical sensors, smart microphones and sensors. Creator of the former\n\nself-control systems with gsm data modules for driving from\n\nremote on multiple industrial machinery, such as washing machines, alarms, emergency sensors,\n\nwater flooding, gas leaks, etc ..\n\nConsultant in government negotiations with various foreign states and top secret military entities,\n\ncontract negotiations for bridges, highways, schools, aqueducts, churches and fiber optics in underdeveloped countries\n\nand finally negotiations for the sales of mines of gold, diamond and oil fields.\n\nThrough his knowledge, he knows payment methods for cash flow management,\n\nknows widely the need and the shortcomings of the world financial system, in 2019 he decides\n\nto found Cash Flash, wanting to contribute with all its know-how to create a cryptocurrency\n\nand related blockchain to improve the current state of world marketing.",
+          "language": {
+            "ITA": "100",
+            "GBR": "100",
+            "spain": "100",
+            "romania": "100",
+            "portugal": "100"
+          },
+          "education": {
+            "0": {
+              "title": "Computer programming",
+              "text": "Faculty of Cybernetics, University of Bucharest"
+            },
+            "1": {
+              "title": "Payment systems development",
+              "text": "Creating algorithms for security"
+            },
+            "2": {
+              "title": "Protection systems development",
+              "text": "Computer encryption, Infrastructure Security"
+            },
+            "3": {
+              "title": "Security systems development",
+              "text": "Creating anti-fraud systems, For ATM security, POS"
+            },
+            "4": {
+              "title": "Protection systems development",
+              "text": "Autocontrollo for satellites, Infrastructure Security"
+            }
+          }
+        },
+        {
+          "title": "Luca Cerato",
+          "sub": "Founder and Investor",
+          "in": "https://www.linkedin.com/company/cashflash/",
+          "inNick": "www.linkedin.com/company/cashflash/",
+          "mail": "info@cashflash.io",
+          "image": "2",
+          "birthday": "07-10-1985",
+          "role": "founders",
+          "description": "Founder and funder of cash flash\n\nExpert in payment and software technologies and systems\n\nElectro-mechanical engineer\n\nIn addition to cash flash, he manages his company WWW.fibiritalia.com\n\nengaged in the design, manufacture and sale of machinery such as\n\nrobotics, washing machines, household appliances and development of payment systems,\n\ncentralized payment desks with payment systems such as:\n\nEMV smart card credit cards, fidelity systems, etc.\n\nWith great ability and passion always in step with the best technology and decided\n\nto create together with his brother ANDREA CEARTO a digital currency or rather futuristic Cryptocurrency\n\nwith the largest Marketplace in the world where you can buy goods, goods, services directly with CFT Token\n\nconnected to your own digital bank that converts all the currencies of the world in real time Fiat and crypto into a single CASH FLASH TOKEN currency\n\nthe only one accepted in the market place thus allowing a large daily exchange of cash flash and enhancing the currency itself, all connected\n\nto a decentralized blockchain, where it will be possible for all users and companies to verify their own\n\nproducts, authenticity, transaction, spare parts of the purchase made and product warranty etc.\n\nBy collaborating for over 3 generations with the largest global brands in the world, textiles and fashion, appliances, food, services, etc. we can\n\nboast over 2 million important and well-known brands around the world which have agreed to be part of and sell their merchandise as well as in their boutiques\n\nin our Marketplace which, after several agreements, the sales turnover generated by our entire consortium generates turnover of over 38 billion euros\n\ndestined to grow with our technology and online sales on the new CASHFLASH.IO platform",
+          "language": {
+            "ITA": "100",
+            "GBR": "75"
+          },
+          "education": {
+            "0": {
+              "title": "European Computer License",
+              "text": "E.C.D.L."
+            },
+            "1": {
+              "title": "Security course",
+              "text": "Security Supervisor, London"
+            },
+            "2": {
+              "title": "Security course",
+              "text": "C.C.T.V. Operator"
+            }
+          }
+        },
+        {
+          "title": "Roberto Baron",
+          "sub": "Board Member",
+          "in": "https://www.linkedin.com/company/cashflash/",
+          "inNick": "www.linkedin.com/in/roberto-baron-3902a7168/",
+          "mail": "info@cashflash.io",
+          "image": "3",
+          "birthday": "",
+          "role": "board",
+          "description": "33 years of Noventa Vicentina. Graduated in accounting and entrepreneur since 2004.\n\nInterested in computer science and the evolution of technology since school\n\nhigher. He lives in London where he manages companies and works in the security field.\n\nPassionate about crypto currencies since 2015, he wants to participate in a new service\n\nand innovative usable by everyone for every commercial sector, contributing to\n\nimprove the safety and authenticity of products for daily use.",
+          "language": {
+            "ITA": "100",
+            "GBR": "75"
+          }
+        },
+        {
+          "title": "Iris Collu",
+          "sub": "Board Member",
+          "in": "https://www.linkedin.com/company/cashflash/",
+          "inNick": "www.linkedin.com/in/iris-c-a5b403191/",
+          "mail": "info@cashflash.io",
+          "image": "4",
+          "birthday": "",
+          "role": "board",
+          "description": "SPECIALIZED IN ACCOUNTING AND MANAGEMENT ADMINISTRATION IN SOFTWERE.\n\nIT HAS A WIDE INTERNATIONAL EXPERIENCE APRESA IN THE FIELD WITH THE MOST IMPORTANT FINANCIAL AND DEVELOPMENT INSTITUTES.\n\nAS TEAM LEAD MANAGER THE CORDINATION AND MAIN INTERFACE OF A PART OF THE ADMINISTRATION AND ENGINEERING TEAM\n\nTHE DESIGN AND DEVELOPMENT OF BLOCKCHAING AND THE CURRENT DEVELOPMENT OF DESIGN UNDER\n\nSUPERVION OF FOUDERS AND CEO.",
+          "language": {
+            "ITA": "100",
+            "GBR": "75"
+          }
+        },
+        {
+          "title": "Giancarlo Giacomelli",
+          "sub": "Board Member",
+          "in": "https://www.linkedin.com/company/cashflash/",
+          "inNick": "www.linkedin.com/company/cashflash/",
+          "mail": "info@cashflash.io",
+          "image": "5",
+          "birthday": "09-30-1955",
+          "role": "board",
+          "description": "I.T.I.S. graduate State Industrial Technical Institute Electrotechnical section;\n\nSpecialized in Sales and Marketing Techniques;\n\nSelection, training and motivation of human resources in the commercial field;\n\nEntrepreneurial management in various commercial companies.\n\nThis training was developed in the companies for which he carried out\n\nprofessional activity, and by attending organized study sessions\n\nby specialized structures, such as the “Mario Silvano” of Milan and the “Roberto Re” of Milan.\n\nRegistered in the C.C.I.A.A. of Verona role of commercial agents, in addition to the related pension\n\nsupplementary E.N.A.S.A.R.C.O.\n\nPREVIOUS EMPLOYMENT 1st November 2009- 31st January 2019.\n\nMint services of the Italian State\n\nPersonal requirements are undoubtedly the great ability to adapt to different\n\nroles in the professional field.",
+          "language": {
+            "ITA": "100",
+            "GBR": "75"
+          }
+        },
+        {
+          "title": "Roberto Pisa",
+          "sub": "Financial Director",
+          "in": "https://www.linkedin.com/company/cashflash/",
+          "inNick": "www.linkedin.com/company/cashflash/",
+          "mail": "info@cashflash.io",
+          "image": "7",
+          "birthday": "",
+          "role": "financial",
+          "description": "58 years old, born in New York to an English mother and an Italian father, he lived for over two years in New York, London, Athens, Beijing, Rome, Strasbourg, Brussels and in the United States (Hendersonville NC- Fairfield CT) . He obtained French Maurità (Bac Mathematics section), a degree from Bocconi University in Political Economy, an MBA while working at the University of Leuven (B), a PIM diploma from the HEC in Paris.\n\nIn 2013 he founded the CL Partners company, which operates as Advisory in operational and financial restructuring projects, for Banks, Funds or industrial companies.\n\nPreviously he worked for 7 years in one of the major European PE funds as Senior Partner, where he managed the restructuring of portfolio companies and where he followed some investment initiatives. He also worked for several industrial companies for 22 years and was, among other things, President and CEO of GE Lighting Systems, Chief Executive Officer of Pirelli SpA, CEO of Euralcom, CRO of the Fiat Group, CEO of Sirti SpA.\n\nEarly in his career, he worked for McKinsey & Co.",
+          "language": {
+            "ITA": "100",
+            "GBR": "100",
+            "FRA": "100"
+          }
+        },
+        {
+          "title": "Pietro Carlini",
+          "sub": "Financial Advisor",
+          "in": "https://www.linkedin.com/company/cashflash/",
+          "inNick": "www.linkedin.com/company/cashflash/",
+          "mail": "info@cashflash.io",
+          "image": "8",
+          "birthday": "",
+          "role": "financial",
+          "description": "He always achieved top marks up\n\ngraduated in Business Economics from Bocconi University in Milan with 110 cum laude at the age of 23.\n\nHe subsequently operated in all financial markets and had and directed companies in the following sectors:\n\nagriculture, commerce, printing, mechanical robotics and construction.",
+          "language": {
+            "ITA": "100",
+            "GBR": "75"
+          }
+        },
+        {
+          "title": "Dr. Carlo Antonio Mazzolla",
+          "sub": "Financial Advisor",
+          "in": "https://www.linkedin.com/company/cashflash/",
+          "inNick": "www.linkedin.com/in/carlo-a-mazzola-5a117b2/",
+          "mail": "info@cashflash.io",
+          "image": "9",
+          "birthday": "",
+          "role": "financial",
+          "description": "Independent financial advisor from Milan. Born in Saronno in 1976,\n\nGraduated in Business and Economics, Graduated from Upsala College in East Orange, N.J.-USA.\n\nHe has worked with major international investment banks\n\nand has distinguished himself in the protection of the saver.",
+          "language": {
+            "ITA": "100",
+            "GBR": "75"
+          }
+        },
+        {
+          "title": "Massimo Caminati",
+          "sub": "Sales",
+          "in": "https://www.linkedin.com/company/cashflash/",
+          "inNick": "www.linkedin.com/company/cashflash/",
+          "mail": "info@cashflash.io",
+          "image": "10",
+          "birthday": "17-11-1976",
+          "role": "advisor",
+          "description": "Graduated in Communication \"computer engineering\"\n\nUniversity of Bologna, cesena (FC) - Italy\n\nmarketing training course\n\nconfartigianato, Forlì - Italy\n\nmeticulous technician, who excels at managing multiple tasks\n\nsimultaneously and in working under pressure. Vast\n\nexperience gained in the finance and crypto currency sector.\n\nSales and marketing representative with a customer-centric approach\n\nand more than 15 years of experience in delivering solutions to customers. Solid\n\nknowledge of the sectors mentioned above and good knowledge of economic development\n\nof coins and digital technologies.\n\nprofessional manager with excellent leadership skills e\n\ndevelopment of interpersonal relationships.",
+          "language": {
+            "ITA": "100",
+            "GBR": "75"
+          }
+        },
+        {
+          "title": "Denise Zupcanova",
+          "sub": "Sales",
+          "in": "https://www.linkedin.com/company/cashflash/",
+          "inNick": "www.linkedin.com/company/cashflash/",
+          "mail": "info@cashflash.io",
+          "image": "11",
+          "birthday": "10-10-1968",
+          "role": "advisor",
+          "description": "SPECIALIZED IN PAYMENT SYSTEMS AND CRYPTO CURRENCIES\n\nGREAT SUCCESSFUL WOMAN WITH GREAT WORK EXPERIENCE\n\nGERMAN MULTINATIONALS AND EUROPE IN THE DEVELOPMENT OF PAYMENT SYSTEMS AND\n\nINDUSTRIAL",
+          "language": {
+            "ITA": "100",
+            "slovakia": "100",
+            "czechia": "100",
+            "germany": "100",
+            "hungary": "100",
+            "russia": "100",
+            "poland": "100"
+          }
+        },
+        {
+          "title": "Milan Pesic",
+          "sub": "Sales",
+          "in": "https://www.linkedin.com/company/cashflash/",
+          "inNick": "www.linkedin.com/company/cashflash/",
+          "mail": "info@cashflash.io",
+          "image": "12",
+          "birthday": "",
+          "role": "advisor",
+          "description": "WORKING EXPERIENCE\n\n\n\n-Director of the customs administration of the Republic\n\nSlovenia, organizes transit documents, import-export, transport,\n\nI work with international clients from all over the world.\n\n\n\n-work at the Instituto of Knowledge Europe\n\n\n\nSKILLS\n\nKnowledge of languages\n\nforeigners: English, Italian, Croatian, German.\n\n\n\nhardworking, positive, reliable, precise, independent, capable of\n\nlogical thinking, team oriented, cryptocurrency expert e\n\nProfessional treder, expert in economics and payment systems.",
+          "language": {
+          }
+        }
+      ]
+    },
+    "footer": {
+      "address": "CashFlash UAB,\nDidžioji st. 18,\nVilnius\n01128,\nLithuania.",
+      "mail": "info@cashflash.io",
+      "title": "Newsletter",
+      "sub": "Stay updated on the news of Cash Flash",
+      "subBtn": "Subscribe",
+      "mailInput": "Email",
+      "copyright": "All rights reserved for CashFlash UAB",
+      "contacts": "Contacts",
+      "usefulLinksTitle": "Useful links",
+      "usefulLinks": [
+        {
+          "label": "https://eos.io",
+          "link": "https://eos.io"
+        },
+        {
+          "label": "https://bloks.io/account/cftcashflash",
+          "link": "https://bloks.io/account/cftcashflash"
+        },
+        {
+          "label": "https://coinmarketcap.com",
+          "link": "https://coinmarketcap.com"
+        },
+        {
+          "label": "https://coingecko.com",
+          "link": "https://coingecko.com"
+        },
+        {
+          "label": "https://cashflashadviser.com",
+          "link": "https://cashflashadviser.com"
+        },{
+          "label": "https://github.com/cashflashuab",
+          "link": "https://github.com/cashflashuab"
+        }
+      ]
+    }
+  },
+  "default": {
+    "serverEr": "Server error"
+  },
+  "main": {
+    "languages": {
+      "FRA": "Franch",
+      "GBR": "English",
+      "ITA": "Italian",
+      "spain": "Spain",
+      "romania": "Romanian",
+      "portugal": "Portuguese",
+      "slovakia": "Slovakia",
+      "czechia": "Czech",
+      "germany": "German",
+      "russia": "Russian",
+      "hungary": "Hungarian",
+      "poland": "Polish"
+    },
+    "pageNotAvailabelModalTitle": "Cooming soon",
+    "pageNotAvailabelModalText": "We're working hard on the feature. CFT tokens Purchase will be available very soon.",
+    "pageNotFound": "This page not found(",
+    "connectedTo": "connected to",
+    "mainnetEOS": "EOS MAINNET",
+    "menu": {
+      "wallet": "Wallet",
+      "profile": "Profile",
+      "referal": "Referral",
+      "purchase": "Purchase"
+    },
+    "monthPool": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "June",
+      "July",
+      "Aug",
+      "Sept",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  "auth": {
+    "welcome": "Welcome to\nCashFlash",
+    "signin": "Sign in",
+    "signin_btn": "Sign in",
+    "signup": "Sign up",
+    "signup_btn": "Sign up",
+    "forgotPassword": "Forgot Password?",
+    "forgotPassword__send": "Send",
+    "email": "Email",
+    "checkEmailToRestorePass": "A letter has been sent to your email address to recover your password.",
+    "modalCheckEmail": {
+      "title": "Check your email",
+      "text": "A letter with email confirmation code has been sent to your email address, please enter the code below",
+      "signup_btn": "Sign Up",
+      "restoreCode": "Code"
+    },
+    "rememberMe": "Remember me",
+    "codeAuth": "Authentication code",
+    "password": "Password",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "nickname": "CashFlash Name",
+    "changePass": "Change",
+    "country": "Country",
+    "er": {
+      "enterEmail": "Enter an email",
+      "enterValidEmail": "Enter a valid email",
+      "enterPass": "Enter password",
+      "enterPassSpecial": "Password must contain special symbols",
+      "enterPassUp": "Password must contain capital letters",
+      "enterPassDown": "Password must contain lowercase letters",
+      "enterPassSpace": "Password must not contain spaces.",
+      "enterTotp": "Enter 2FA code",
+      "enterFirstName": "Enter first name",
+      "enterSecondName": "Enter last name",
+      "enterNickname": "Enter CashFlash Name",
+      "nicknameExists": "Nickname already exists",
+      "enterMsg": "Enter a message",
+      "enterValidNickname": "CashFlash name must consist of 12 characters, only lowercase latin letters and digits 1-5",
+      "enterCode": "Enter a code delivered to your mailbox",
+      "incorrectEmailToReset": "The email doesn't exist",
+      "emailExists": "The email address is used by another user",
+      "incorrectLog": "Invalid password or login",
+      "incorrectTotp": "2FA code is invalid",
+      "incorrectCode": "Email confirmation code is invalid",
+      "enterCountry": "Enter country"
+    },
+    "kyc": "You are required to pass KYC/AML"
+  },
+  "wallet": {
+    "history": "History",
+    "cfid": "CF id",
+    "EOShash": "EOShash",
+    "at": "at",
+    "balance": "Balance",
+    "onReward": "123on123",
+    "labelReward": "First reward",
+    "ofReward": "of",
+    "descReward": "will be deposited to your wallet as purchase bonus",
+    "eos": "EOS",
+    "openExplorer": "open in block explorer",
+    "send": "Send",
+    "receive": "Receive",
+    "amount": "Amount",
+    "date": "Date",
+    "status": "Status",
+    "modalReceive": {
+      "title": "Receive",
+      "cashFlash": "CashFlash",
+      "eos": "EOS",
+      "subtext": "The sender should send funds to EOS account name above. Memo field must be filled out with your personal CashFlash account name. Otherwise the funds won't be deposited to your account.",
+      "close": "Close"
+    },
+    "modalSend": {
+      "fee": "Fee",
+      "title": "Send",
+      "subtext": "The sender should send funds to EOS account name above. Memo field must be filled out with your personal CashFlash account name. Otherwise the funds won't be deposited to your account.",
+      "close": "Close",
+      "sendCashFlash": "Send within CashFlash",
+      "sendOutCashFlash": "Send outside CashFlash",
+      "code": "Code",
+      "recipient": "Recipient",
+      "sendBtn": "Send",
+      "successTitle": "Success",
+      "successText": "Funds have been sent to recipient",
+      "amount": "Amount",
+      "memo": "Memo",
+      "errorWalletNotFound": "Wallet not found",
+      "insufficientFounds": "Insufficient funds",
+      "errorIdenticalAddress": "The address is identical to the sender address",
+      "enterAmount": "Enter amount",
+      "max": "Max",
+      "enterRecipient": "Enter recipient's account name"
+    },
+    "epmtyHistory": "There is no transactions related to your account",
+    "statusPending": "Pending",
+    "statusFailed": "Failed",
+    "statusSuccess": "Success"
+  },
+  "profile": {
+    "setAvatar": "Set avatar",
+    "avatarDesc": "Upload profile image",
+    "uploadAva": "Uppload file",
+    "sizeEr": "Размер файла не должен превышать 5 мб",
+    "gendersName": {
+      "M": "Male",
+      "F": "Female"
+    },
+    "streetTypes": ["Str", "Avenue"],
+    "docTypes": ["Passport", "National ID card", "Driver license"],
+    "req": "This field is required",
+    "chooseGender": "Choose gender",
+    "progressVer": "Filling out the fields",
+    "kysSuccess": "Your personal data have been successfully sent to KYC provider.",
+    "kysSuccessTitle": "Success",
+    "nextBtn": "Next",
+    "backBtn": "Back",
+    "verified": "Verified",
+    "notVerified": "Not Verified",
+    "pending": "Pending",
+    "changeProfile": "Change",
+    "filed": {
+      "types": "Можно загружать только .jpg, .png, .pdf файлы",
+      "tooLarge": "The file is too heavy",
+      "onlyTwo": "Only 2 file upload is available",
+      "expiryExpired": "The document is overdue"
+    },
+    "document": {
+      "title": "Document",
+      "number": "Personal ID (SSN)"
+    },
+    "person": {
+      "title": "Person",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "middleName": "Middle name",
+      "birthDate": "Date of birth",
+      "gender": "Gender",
+      "birthPlace": "Place of birth"
+    },
+    "communication": {
+      "title": "Communication",
+      "telephone": "Telephone number",
+      "cellphone": "Cellphone number",
+      "email": "Email address",
+      "ipAddress": "IP address"
+    },
+    "location": {
+      "title": "Location",
+      "country": "Country",
+      "state": "State",
+      "streetType": "Street type",
+      "streetName": "Street name",
+      "buildingNum": "Building number",
+      "unitNumber": "Unit number",
+      "city": "City",
+      "zipCode": "Postal (ZIP) code",
+      "province": "Province",
+      "houseExtension": "House extension"
+    },
+    "edit": "Edit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "2fa": "2FA",
+    "ga": "Google Authenticator",
+    "gaSub": "One-Time Password application",
+    "enable": "Enable",
+    "disable": "Disable",
+    "changePass": "Change password",
+    "changePassBtn": "Change",
+    "verifiedMe": "Verify",
+    "modalChangePass": {
+      "title": "Change password",
+      "newPass": "New password",
+      "saveBtn": "Save",
+      "titleSuccess": "Success",
+      "textSuccess": "Password changed",
+      "closeSuccess": "Ok"
+    },
+    "modalDisableGA": {
+      "title": "Disable 2FA",
+      "incorrectPass": "Invalid password",
+      "code": "2FA code",
+      "disableBtn": "Disable",
+      "titleSuccess": "Success",
+      "textSuccess": "Google Authenticator disabled",
+      "closeSuccess": "Ok"
+    },
+    "modalEnableGA": {
+      "title": "Enable 2FA",
+      "step1Title": "Install mobile app",
+      "step2Title": "Scan QR code",
+      "step3Title": "Back up the key",
+      "step4Title": "Enable Google Authenticator",
+      "step": "Step",
+      "installApp": "Install the Google Authenticator mobile app",
+      "scanQr": "Scan this QR code with Google Authenticator or enter code manually into the app",
+      "savePaper": "Please save this Key on paper. This Key will allow you to recover your Google Authenticator in case of phone loss",
+      "enableGA": "Enable Google Authenticator",
+      "GACodeTitle": "Google Authenticator Code",
+      "back": "Back",
+      "sendGA": "Submit",
+      "next": "Next",
+      "titleSuccess": "Success",
+      "textSuccess": "Google Authenticator disabled",
+      "closeSuccess": "Ok"
+    }
+  },
+  "ref": {
+    "title": "Share what is worth sharing",
+    "sub": "This bonus is for you and your friends",
+    "reward": "Your reward\nfor each referral",
+    "rewardNum": "10% of his purchase",
+    "invFriends": "Invite Your Friends",
+    "inviteSuccesSent": "Invitation sent",
+    "invBtn": "Send",
+    "statistic": "Statistics",
+    "statSent": "Personal invititation sent",
+    "statBonuses": "My bonuses",
+    "statRef": "My referrals",
+    "someMsg": "Example: Hi, my dear friend!..."
+  },
+  "purchase": {
+    "promo": {
+      "title": "Buy CFT tokens and get extra CFT tokens in 3 months according to the following scheme:"
+    },
+    "specialOfferTitle": "Special offer",
+    "specialOfferDescription": "Hurry up!\nGet your extra tokens right now.",
+    "andMore": "and more - extra tokens are negotiable",
+    "bonusAmount": "Bonus amount",
+    "deliveryDate": "Delivery date",
+    "iPaid": " Pay",
+    "promoTo": "to",
+    "promoExtra": "extra token",
+    "modal": {
+      "successText": "Thank you for the purchase. CFT tokens have been deposited to your wallet. Check your balances on the Wallet tab",
+      "successTitle": "Success",
+      "failureText": "Something went wrong. Please try again in 30 minutes",
+      "failureTitle": "Failure"
+    },
+    "check": {
+      "title": "Check and confirm",
+      "total": "Total amount",
+      "items": ["Some data 1", "Some data 2", "Some data 3"],
+      "warText": "After pressing the \"Pay\" button the purchase will be paid\nCaution! by EOS coins from your wallet.",
+      "ok": "Ok"
+    },
+    "days": "Days",
+    "d": "D",
+    "hours": "Hours",
+    "h": "H",
+    "minutes": "Minutes",
+    "m": "M",
+    "seconds": "Seconds",
+    "s": "S",
+    "ico": "ICO Progress",
+    "progressItems": ["text 111", "text 22", "text 333"],
+    "specify": "Specify a number",
+    "choose": "Choose a payment method",
+    "EOS": "EOS (from your CF wallet)",
+    "stripe": "BTC/ETH",
+    "amount": "Amount",
+    "amountPlaceholder": "€1000",
+    "total": "Total sum",
+    "comingSoon": "We're working hard on the feature. Deposits in fiat currencies will be available very soon.",
+    "paymentBtcEth": {
+      "title": "Buy with",
+      "address": "address",
+      "description": "<div>Minimum purchase EUR 1000</div><div>1- provide Txn hash of payment to info@cashflash.io with Nickname ID#</div><div>2- after 6 confirmation on Blockchain CFT will be deposited in account</div>"
+    },
+    "cur": "€",
+    "confirm": "Confirm",
+    "currencies": {
+      "columns": {
+        "currency": "Currency",
+        "price": "Price",
+        "change": "Change"
+      },
+      "title": "Exchange rates"
+    },
+    "steps": {
+      "title": "Steps",
+      "items": [
+        {
+          "round": "1 Round",
+          "date": "January 13 - February 13",
+          "extra": "50% extra token",
+          "released": "released 3 months later the end of the ICO",
+          "sum": "$ 1",
+          "token": "For token"
+        },
+        {
+          "round": "1 Round",
+          "date": "January 13 - February 13",
+          "extra": "50% extra token",
+          "released": "released 3 months later the end of the ICO",
+          "sum": "$ 1",
+          "token": "For token"
+        },
+        {
+          "round": "1 Round",
+          "date": "January 13 - February 13",
+          "extra": "50% extra token",
+          "released": "released 3 months later the end of the ICO",
+          "sum": "$ 1",
+          "token": "For token"
+        },
+        {
+          "round": "1 Round",
+          "date": "January 13 - February 13",
+          "extra": "50% extra token",
+          "released": "released 3 months later the end of the ICO",
+          "sum": "$ 1",
+          "token": "For token"
+        }
+      ]
+    }
+  }
+}
